@@ -1,0 +1,85 @@
+h1 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+h1 > a {
+    font-size: 16px;
+}
+
+h2 {
+    padding-right: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+th {
+    font-size: 10px;
+}
+
+td {
+    font-size: 8px;
+    width: 80px;
+}
+
+table{
+    border: 0.5px solid;
+    border-collapse: collapse;
+}
+
+.time {
+    font-size: 8px;
+}
+
+.form-group {
+    font-size:12px;
+}
+
+.typing_place {
+    width: 80px;
+    font-size: 10px;
+}
+
+
+form {
+    display: inline-block;
+}
+
+.btn {
+    font-size: 6px;
+    margin-left:10px;
+    cursor: pointer;
+    background-color: #fff87c;
+    border: 0.5px solid rgb(199, 255, 86);
+}
+
+.error {
+    color:red;
+    font-size: 14px;
+}
+
+.sum {
+    font-size: 10px;
+    display: flex;
+    margin-left: 50px;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.details {
+    margin-left: 50px;
+    text-align: center;
+}
+
+.credits {
+    margin-left: 400px;
+    text-align: center;
+}
+
+.credits > .sum {
+    margin-top: -85px;
+}
